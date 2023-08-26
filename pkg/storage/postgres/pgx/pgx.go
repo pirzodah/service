@@ -7,6 +7,7 @@ import (
 	"context"
 	"errors"
 	"log"
+	"os"
 
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/pgxpool"
@@ -17,7 +18,9 @@ type postgresDatabase struct {
 }
 
 func NewClient(ctx context.Context, databaseDsn models.Configuration) (storage.Database, error) {
-	poolConfig, err := pgxpool.ParseConfig(databaseDsn.PostgresDsn)
+	databaseURL := os.Getenv("DATABASE_URL")
+
+	poolConfig, err := pgxpool.ParseConfig(databaseURL)
 	if err != nil {
 		log.Println(err)
 		return nil, errors.New("pgxpool.ParseConfig ERROR: " + err.Error())

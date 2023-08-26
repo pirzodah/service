@@ -3,4 +3,4 @@ configuration:
   port: 8080
   version: v1
   api: api
-  postgresDsn: postgres://app:pass@localhost:5432/dbavesto
+  DATABASE_URL: postgres://app:pass@localhost:5432/dbavesto

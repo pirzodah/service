@@ -640,3 +640,7 @@ created by net/http.(*Server).Serve
 2023/08/22 15:29:12 config.go:34: ---*--- Starting Logging ---*---
 2023/08/22 15:42:46 main.go:51: interrupt
 2023/08/26 17:54:21 config.go:34: ---*--- Starting Logging ---*---
+2023/08/26 18:50:33 main.go:51: interrupt
+2023/08/26 18:50:33 main.go:60: Server - < finished goroutines
+2023/08/26 18:50:34 config.go:34: ---*--- Starting Logging ---*---
+2023/08/26 18:50:34 pgx.go:30: failed to connect to `host=/tmp user=hakim database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)
