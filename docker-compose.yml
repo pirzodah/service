@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  bankdb:
+    image: postgres:10
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=dbavesto
+
+#  mssqldb:
+#    image: mcr.microsoft.com/mssql/server:2019-latest
+#    ports:
+#      - 1433:1433
+#    environment:
+#      - ACCEPT_EULA=Y
+#      - SA_PASSWORD=password
+#      - MSSQL_PID=Developer

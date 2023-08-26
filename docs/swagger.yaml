@@ -1,0 +1,77 @@
+basePath: /
+definitions:
+  models.ErrorCode:
+    properties:
+      code:
+        type: integer
+      message:
+        type: string
+    type: object
+  models.Response:
+    properties:
+      code:
+        type: integer
+      message:
+        type: string
+      payload: {}
+      total:
+        type: integer
+    type: object
+host: localhost:8080
+info:
+  contact: {}
+  description: API Server for E-commerce Shop Application
+  title: E-commerce Sho API
+  version: "1.0"
+paths:
+  /ping:
+    get:
+      description: Returns a "pong" response
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: pong
+          schema:
+            type: string
+      summary: Ping the server
+      tags:
+      - ping
+  /service:
+    post:
+      consumes:
+      - application/x-www-form-urlencoded
+      description: Add a new service to the system
+      parameters:
+      - description: Name of the service
+        in: formData
+        name: name
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: '#/definitions/models.Response'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/models.ErrorCode'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/models.ErrorCode'
+      summary: Add a new service
+      tags:
+      - Services
+schemes:
+- http
+- https
+securityDefinitions:
+  ApiKeyAuth:
+    in: header
+    name: Authorization
+    type: apiKey
+swagger: "2.0"

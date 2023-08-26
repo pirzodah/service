@@ -1,0 +1,642 @@
+2023/08/17 03:38:10 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:41:56 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 1 into *string
+2023/08/17 03:42:09 main.go:44: interrupt
+2023/08/17 03:42:12 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:42:43 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 2 into *string
+2023/08/17 03:46:17 main.go:44: interrupt
+2023/08/17 03:46:17 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 3 into *string
+2023/08/17 03:46:17 main.go:51: 
+2023/08/17 03:46:17 main.go:53: Server - < finished goroutines
+2023/08/17 03:46:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:46:57 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 4 into *string
+2023/08/17 03:51:56 main.go:44: interrupt
+2023/08/17 03:51:56 main.go:53: Server - < finished goroutines
+2023/08/17 03:51:58 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:53:02 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 5 into *string
+2023/08/17 03:55:25 main.go:44: interrupt
+2023/08/17 03:55:26 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:56:12 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 6 into *string
+2023/08/17 03:56:17 main.go:44: interrupt
+2023/08/17 03:56:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:56:46 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 7 into *string
+2023/08/17 03:56:46 main.go:44: interrupt
+2023/08/17 03:56:47 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:57:00 main.go:44: interrupt
+2023/08/17 03:57:00 main.go:51: 
+2023/08/17 03:57:00 main.go:53: Server - < finished goroutines
+2023/08/17 03:57:02 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 03:59:59 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 9 into *string
+2023/08/17 04:01:10 main.go:44: interrupt
+2023/08/17 04:01:12 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:01:15 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 10 into *string
+2023/08/17 04:02:33 main.go:44: interrupt
+2023/08/17 04:02:35 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:02:38 log.go:21: controllers AddUser ctrl.controllers.user.go can't scan into dest[0]: cannot assign 11 into *string
+2023/08/17 04:05:05 main.go:44: interrupt
+2023/08/17 04:05:07 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:05:12 log.go:21: usecase AddServices ctrl.usecase.service.go can't scan into dest[0]: cannot assign 12 into *string
+2023/08/17 04:05:15 main.go:44: interrupt
+2023/08/17 04:05:17 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:07:18 log.go:21: usecase AddServices ctrl.usecase.service.go can't scan into dest[0]: cannot assign 13 into *string
+2023/08/17 04:08:57 main.go:44: interrupt
+2023/08/17 04:08:59 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:36:04 main.go:44: interrupt
+2023/08/17 04:36:06 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:36:52 main.go:44: interrupt
+2023/08/17 04:36:52 main.go:53: Server - < finished goroutines
+2023/08/17 04:36:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:37:49 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 04:38:10 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 04:38:26 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 04:38:49 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 04:38:56 main.go:44: interrupt
+2023/08/17 04:38:58 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:39:02 main.go:44: interrupt
+2023/08/17 04:39:03 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:39:22 main.go:44: interrupt
+2023/08/17 04:39:22 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:41:18 main.go:44: interrupt
+2023/08/17 04:41:18 main.go:53: Server - < finished goroutines
+2023/08/17 04:41:22 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:43:13 main.go:44: interrupt
+2023/08/17 04:43:14 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:43:27 main.go:44: interrupt
+2023/08/17 04:43:28 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:44:35 main.go:44: interrupt
+2023/08/17 04:44:35 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 04:44:39 main.go:44: interrupt
+2023/08/17 04:44:39 main.go:53: Server - < finished goroutines
+2023/08/17 04:44:40 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 07:54:42 main.go:44: interrupt
+2023/08/17 07:54:44 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 08:01:37 main.go:44: interrupt
+2023/08/17 08:01:37 main.go:53: Server - < finished goroutines
+2023/08/17 08:01:39 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 08:11:15 main.go:44: interrupt
+2023/08/17 08:11:17 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 08:12:04 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 08:13:11 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 08:13:17 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/17 09:46:26 main.go:44: interrupt
+2023/08/17 09:46:26 main.go:53: Server - < finished goroutines
+2023/08/17 14:55:05 config.go:34: ---*--- Starting Logging ---*---
+2023/08/17 15:07:33 main.go:44: interrupt
+2023/08/21 00:53:13 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:00:17 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:00:28 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:00:47 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:00:55 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:00:55 pgx.go:29: ERROR: relation "services" does not exist (SQLSTATE 42P01)
+2023/08/21 01:01:43 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:02:06 main.go:44: interrupt
+2023/08/21 01:03:54 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:04:41 main.go:44: interrupt
+2023/08/21 01:04:42 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:04:54 main.go:44: interrupt
+2023/08/21 01:04:54 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:06:55 main.go:44: interrupt
+2023/08/21 01:06:55 main.go:53: Server - < finished goroutines
+2023/08/21 01:07:05 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:09:15 main.go:44: interrupt
+2023/08/21 01:09:15 main.go:53: Server - < finished goroutines
+2023/08/21 01:10:02 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:13:36 main.go:44: interrupt
+2023/08/21 01:13:38 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:17:13 main.go:44: interrupt
+2023/08/21 01:21:41 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:23:57 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:23:59 main.go:56: interrupt
+2023/08/21 01:23:59 main.go:65: Server - < finished goroutines
+2023/08/21 01:24:11 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:26:07 main.go:56: interrupt
+2023/08/21 01:26:08 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:28:55 main.go:56: interrupt
+2023/08/21 01:28:55 main.go:65: Server - < finished goroutines
+2023/08/21 01:29:00 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:29:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:29:23 main.go:55: interrupt
+2023/08/21 01:29:25 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:30:30 main.go:55: interrupt
+2023/08/21 01:30:31 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:33:57 main.go:46: interrupt
+2023/08/21 01:33:58 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:34:31 main.go:46: interrupt
+2023/08/21 01:34:32 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:35:53 main.go:46: interrupt
+2023/08/21 01:35:53 main.go:55: Server - < finished goroutines
+2023/08/21 01:35:54 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:40:28 main.go:46: interrupt
+2023/08/21 01:40:29 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:40:45 main.go:46: interrupt
+2023/08/21 01:40:46 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:41:52 main.go:46: interrupt
+2023/08/21 01:41:52 main.go:55: Server - < finished goroutines
+2023/08/21 01:41:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:41:55 log.go:21: usecase len(service.Name) ctrl.usecase.service.go <nil>
+2023/08/21 01:42:17 log.go:21: usecase len(service.Name) ctrl.usecase.service.go <nil>
+2023/08/21 01:42:22 log.go:21: usecase len(service.Name) ctrl.usecase.service.go <nil>
+2023/08/21 01:42:37 log.go:21: usecase len(service.Name) ctrl.usecase.service.go <nil>
+2023/08/21 01:44:06 main.go:46: interrupt
+2023/08/21 01:44:07 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:44:37 main.go:46: interrupt
+2023/08/21 01:44:39 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:57:28 main.go:46: interrupt
+2023/08/21 01:57:29 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 01:58:16 main.go:46: interrupt
+2023/08/21 01:58:18 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 03:08:35 main.go:46: interrupt
+2023/08/21 03:08:35 main.go:55: Server - < finished goroutines
+2023/08/21 03:08:36 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 03:12:52 main.go:46: interrupt
+2023/08/21 03:12:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 03:12:53 pgx.go:30: failed to connect to `host=/tmp user=hakim database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)
+2023/08/21 03:13:24 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 04:42:28 main.go:46: interrupt
+2023/08/21 04:42:28 main.go:55: Server - < finished goroutines
+2023/08/21 04:42:30 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 04:45:10 main.go:50: interrupt
+2023/08/21 04:45:10 main.go:59: Server - < finished goroutines
+2023/08/21 04:56:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 05:27:40 main.go:51: interrupt
+2023/08/21 05:27:41 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 05:28:42 main.go:51: interrupt
+2023/08/21 05:28:42 main.go:60: Server - < finished goroutines
+2023/08/21 05:28:45 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 05:30:04 main.go:51: interrupt
+2023/08/21 05:30:06 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 05:30:32 main.go:51: interrupt
+2023/08/21 05:30:33 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:01:31 main.go:51: interrupt
+2023/08/21 07:01:31 main.go:60: Server - < finished goroutines
+2023/08/21 07:02:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:02:52 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:03:33 main.go:51: interrupt
+2023/08/21 07:03:35 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:03:50 main.go:51: interrupt
+2023/08/21 07:03:50 main.go:60: Server - < finished goroutines
+2023/08/21 07:03:51 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:06:34 main.go:51: interrupt
+2023/08/21 07:06:35 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 07:06:42 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/21 07:37:47 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/21 08:03:12 main.go:51: interrupt
+2023/08/21 08:03:13 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:05:24 main.go:51: interrupt
+2023/08/21 08:05:26 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:05:45 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/21 08:06:17 main.go:51: interrupt
+2023/08/21 08:06:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:06:21 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/21 08:06:33 main.go:51: interrupt
+2023/08/21 08:06:33 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:16:55 main.go:51: interrupt
+2023/08/21 08:16:58 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:17:21 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go can't scan into dest[1]: cannot assign 2 into *string
+2023/08/21 08:19:19 main.go:51: interrupt
+2023/08/21 08:19:20 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:19:22 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go number of field descriptions must equal number of destinations, got 4 and 9
+2023/08/21 08:20:50 main.go:51: interrupt
+2023/08/21 08:20:52 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:20:55 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go number of field descriptions must equal number of destinations, got 4 and 9
+2023/08/21 08:23:06 main.go:51: interrupt
+2023/08/21 08:23:06 main.go:60: Server - < finished goroutines
+2023/08/21 08:23:08 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:23:11 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go can't scan into dest[1]: cannot assign 2 into *string
+2023/08/21 08:24:24 main.go:51: interrupt
+2023/08/21 08:24:25 config.go:34: ---*--- Starting Logging ---*---
+2023/08/21 08:24:29 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go can't scan into dest[1]: cannot assign 2 into *string
+2023/08/21 08:27:07 main.go:51: interrupt
+2023/08/21 08:28:15 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 10:50:52 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 11:00:09 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "getInputsByServiceID" (SQLSTATE 42601)
+2023/08/22 11:05:17 main.go:51: interrupt
+2023/08/22 11:05:18 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 11:05:23 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "getInputsByServiceID" (SQLSTATE 42601)
+2023/08/22 11:06:09 main.go:51: interrupt
+2023/08/22 11:06:11 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 11:06:11 pgx.go:30: AfterConnectServiceInputs error: ERROR: column "service_id" does not exist (SQLSTATE 42703)
+2023/08/22 13:17:21 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:17:21 pgx.go:30: AfterConnectServiceInputs error: ERROR: column "service_id" does not exist (SQLSTATE 42703)
+2023/08/22 13:17:39 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:17:42 server.go:3217: http: panic serving 127.0.0.1:51342: implement me
+goroutine 40 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c0e0, 0x9e7c20})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc0000aebe0?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eec80, 0xc0000aebe0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0000d60e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:31 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc0000fe028?, {0x9eec80?, 0xc0000aebe0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0000d60e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eec80?, 0xc0000aebe0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0000d60e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0000be020, {0x9ee7f0, 0xc0000fa000}, 0xc0000ec000, {0xc0000ae8c0?, 0x0?, 0xc0000d60cd?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc0000a22a0, {0x9ee7f0, 0xc0000fa000}, 0xc0000ec000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec0f8?}, {0x9ee7f0, 0xc0000fa000}, 0xc0000ec000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc0000b61b0, {0x9eed28, 0xc0000ac510})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 13:18:24 server.go:3217: http: panic serving 127.0.0.1:56880: implement me
+goroutine 45 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c0e0, 0x9e7c20})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc0001f0050?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eec80, 0xc0001f0050}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b040, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:31 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000182ca8?, {0x9eec80?, 0xc0001f0050?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b040, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eec80?, 0xc0001f0050?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b040, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0000be020, {0x9ee7f0, 0xc000176540}, 0xc0000ec200, {0xc0000ae8c0?, 0x0?, 0xc00002b02d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc0000a22a0, {0x9ee7f0, 0xc000176540}, 0xc0000ec200)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec0f8?}, {0x9ee7f0, 0xc000176540}, 0xc0000ec200)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc0000b6480, {0x9eed28, 0xc0000ac510})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 13:18:36 main.go:51: interrupt
+2023/08/22 13:18:37 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:19:56 server.go:3217: http: panic serving 127.0.0.1:48502: implement me
+goroutine 11 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0x148
+panic({0xb8cc00, 0xc9c660})
+	/usr/lib/go/src/runtime/panic.go:890 +0x262
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000163b10)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x32
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0xc000200070, {0xca3790, 0xc0001f0190}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b340, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:31 +0x56a
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000200080, {0xca3790, 0xc0001f0190}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b340, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x95
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0xc000200090, {0xca3790, 0xc0001f0190}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b340, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0xa2
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc00021e020, {0xca32d0, 0xc000178540}, 0xc00015a500, {0x7, 0x0, 0x0})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x2a4
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00021a180, {0xca32d0, 0xc000178540}, 0xc00015a500)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x32f
+net/http.serverHandler.ServeHTTP({0xc00022a000}, {0xca32d0, 0xc000178540}, 0xc00015a500)
+	/usr/lib/go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc00014c630, {0xca3790, 0xc0001f0140})
+	/usr/lib/go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0xa16
+2023/08/22 13:20:11 main.go:51: interrupt
+2023/08/22 13:20:12 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:20:15 server.go:3217: http: panic serving 127.0.0.1:35728: implement me
+goroutine 11 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c0e0, 0x9e7c20})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc0001ee0f0?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eec80, 0xc0001ee0f0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:31 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000182ca8?, {0x9eec80?, 0xc0001ee0f0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eec80?, 0xc0001ee0f0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc00021e060, {0x9ee7f0, 0xc000176540}, 0xc00015a500, {0xc0002049b0?, 0x0?, 0xc00002b06d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00021a180, {0x9ee7f0, 0xc000176540}, 0xc00015a500)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec0f8?}, {0x9ee7f0, 0xc000176540}, 0xc00015a500)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc00014c5a0, {0x9eed28, 0xc000202660})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 13:21:00 main.go:51: interrupt
+2023/08/22 13:21:01 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:21:22 main.go:51: interrupt
+2023/08/22 13:21:23 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:21:44 main.go:51: interrupt
+2023/08/22 13:21:45 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:21:48 main.go:51: interrupt
+2023/08/22 13:21:49 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:23:14 main.go:51: interrupt
+2023/08/22 13:23:16 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:31:02 main.go:51: interrupt
+2023/08/22 13:31:04 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:31:38 main.go:51: interrupt
+2023/08/22 13:31:39 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:31:48 main.go:51: interrupt
+2023/08/22 13:31:57 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:31:58 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/22 13:32:04 main.go:51: interrupt
+2023/08/22 13:32:05 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:32:55 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/22 13:32:55 main.go:51: interrupt
+2023/08/22 13:32:55 main.go:60: Server - < finished goroutines
+2023/08/22 13:32:57 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:33:37 main.go:51: interrupt
+2023/08/22 13:33:59 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:34:23 main.go:51: interrupt
+2023/08/22 13:34:24 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:34:36 main.go:51: interrupt
+2023/08/22 13:34:37 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:45:45 main.go:51: interrupt
+2023/08/22 13:45:45 main.go:58: 
+2023/08/22 13:45:46 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:45:54 main.go:51: interrupt
+2023/08/22 13:45:55 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 13:47:06 main.go:51: interrupt
+2023/08/22 13:47:06 main.go:60: Server - < finished goroutines
+2023/08/22 13:47:07 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:02:44 main.go:51: interrupt
+2023/08/22 14:02:45 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:02:54 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/22 14:08:11 log.go:21: usecase GetServiceByID ctrl.usecase.service.go no rows in result set
+2023/08/22 14:10:01 main.go:51: interrupt
+2023/08/22 14:10:03 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:10:22 main.go:51: interrupt
+2023/08/22 14:10:24 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:10:45 log.go:21: usecase GetServiceInputs ctrl.usecase.service.go no rows in result set
+2023/08/22 14:10:59 log.go:21: usecase AddServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "addServiceInput" (SQLSTATE 42601)
+2023/08/22 14:11:08 main.go:51: interrupt
+2023/08/22 14:11:10 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:11:15 log.go:21: usecase AddServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "addServiceInput" (SQLSTATE 42601)
+2023/08/22 14:11:34 main.go:51: interrupt
+2023/08/22 14:11:36 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:12:15 log.go:21: usecase AddServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "addServiceInput" (SQLSTATE 42601)
+2023/08/22 14:12:15 main.go:51: interrupt
+2023/08/22 14:12:17 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:14:52 log.go:21: usecase AddServiceInputs ctrl.usecase.service.go ERROR: syntax error at or near "addServiceInput" (SQLSTATE 42601)
+2023/08/22 14:14:52 main.go:51: interrupt
+2023/08/22 14:14:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:14:55 server.go:3217: http: panic serving 127.0.0.1:52834: implement me
+goroutine 38 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d38})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000296af0?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eeda0, 0xc000296af0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002ac0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:21 +0x296
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc0002e6028?, {0x9eeda0?, 0xc000296af0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002ac0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eeda0?, 0xc000296af0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002ac0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0002a4000, {0x9ee910, 0xc0002e2000}, 0xc0002d2000, {0xc0002967d0?, 0x0?, 0xc0002ac0cd?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00028e180, {0x9ee910, 0xc0002e2000}, 0xc0002d2000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec218?}, {0x9ee910, 0xc0002e2000}, 0xc0002d2000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc00029a120, {0x9eee48, 0xc0002923c0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:15:00 server.go:3217: http: panic serving 127.0.0.1:52842: implement me
+goroutine 51 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d38})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc00030e190?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eeda0, 0xc00030e190}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000322080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:21 +0x296
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc00033e028?, {0x9eeda0?, 0xc00030e190?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000322080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eeda0?, 0xc00030e190?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000322080, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0002a4000, {0x9ee910, 0xc0003280e0}, 0xc000330000, {0xc0002967d0?, 0x0?, 0xc00032206d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00028e180, {0x9ee910, 0xc0003280e0}, 0xc000330000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec218?}, {0x9ee910, 0xc0003280e0}, 0xc000330000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc00032e000, {0x9eee48, 0xc0002923c0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:15:18 server.go:3217: http: panic serving 127.0.0.1:50138: implement me
+goroutine 14 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d38})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000200280?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eeda0, 0xc000200280}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b180, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:21 +0x296
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000114ca8?, {0x9eeda0?, 0xc000200280?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b180, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eeda0?, 0xc000200280?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b180, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0002a4000, {0x9ee910, 0xc000108540}, 0xc0000ea600, {0xc0002967d0?, 0x0?, 0xc00002b16d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00028e180, {0x9ee910, 0xc000108540}, 0xc0000ea600)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec218?}, {0x9ee910, 0xc000108540}, 0xc0000ea600)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc0000dc630, {0x9eee48, 0xc0002923c0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:15:20 main.go:51: interrupt
+2023/08/22 14:15:21 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:16:00 server.go:3217: http: panic serving 127.0.0.1:44730: implement me
+goroutine 41 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0x148
+panic({0xb8dc20, 0xc9d7a8})
+	/usr/lib/go/src/runtime/panic.go:890 +0x262
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000163a00)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x32
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0xc00020e070, {0xca48f0, 0xc000210be0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000200100, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:21 +0x4bb
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc00020e080, {0xca48f0, 0xc000210be0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000200100, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x95
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0xc00020e090, {0xca48f0, 0xc000210be0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000200100, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0xa2
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc00020a040, {0xca4430, 0xc000266000}, 0xc000258000, {0x7, 0x0, 0x0})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x2a4
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00022c120, {0xca4430, 0xc000266000}, 0xc000258000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x32f
+net/http.serverHandler.ServeHTTP({0xc000234000}, {0xca4430, 0xc000266000}, 0xc000258000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc0002161b0, {0xca48f0, 0xc000210b90})
+	/usr/lib/go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0xa16
+2023/08/22 14:16:00 main.go:51: interrupt
+2023/08/22 14:16:01 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:16:06 server.go:3217: http: panic serving 127.0.0.1:42692: implement me
+goroutine 37 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d38})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000286190?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eeda0, 0xc000286190}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002b6060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:21 +0x296
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc0002d8028?, {0x9eeda0?, 0xc000286190?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002b6060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eeda0?, 0xc000286190?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc0002b6060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0000cbbc0, {0x9ee910, 0xc0002d4000}, 0xc0002c2000, {0xc00017e8c0?, 0x0?, 0xc0002b604d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc0000c4ea0, {0x9ee910, 0xc0002d4000}, 0xc0002c2000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec218?}, {0x9ee910, 0xc0002d4000}, 0xc0002c2000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc000292120, {0x9eee48, 0xc0002324e0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:19:28 main.go:51: interrupt
+2023/08/22 14:19:29 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:19:35 server.go:3217: http: panic serving 127.0.0.1:42900: implement me
+goroutine 50 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7db8})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc00030a0a0?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eee20, 0xc00030a0a0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000300060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:30 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000340028?, {0x9eee20?, 0xc00030a0a0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000300060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eee20?, 0xc00030a0a0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc000300060, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc00020a040, {0x9ee990, 0xc00033c000}, 0xc000324000, {0xc000210910?, 0x0?, 0xc00030004d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc000224120, {0x9ee990, 0xc00033c000}, 0xc000324000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec298?}, {0x9ee990, 0xc00033c000}, 0xc000324000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc000308000, {0x9eeec8, 0xc000202600})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:20:10 main.go:51: interrupt
+2023/08/22 14:20:12 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:20:14 main.go:51: interrupt
+2023/08/22 14:20:14 main.go:60: Server - < finished goroutines
+2023/08/22 14:20:14 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:20:17 server.go:3217: http: panic serving 127.0.0.1:51060: implement me
+goroutine 23 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7db8})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000216b40?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eee20, 0xc000216b40}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00022c0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:30 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000260028?, {0x9eee20?, 0xc000216b40?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00022c0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eee20?, 0xc000216b40?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00022c0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc00020a020, {0x9ee990, 0xc00025c000}, 0xc00024c000, {0xc000216820?, 0x0?, 0xc00022c0cd?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc0002180c0, {0x9ee990, 0xc00025c000}, 0xc00024c000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec298?}, {0x9ee990, 0xc00025c000}, 0xc00024c000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc00021c120, {0x9eeec8, 0xc0002024b0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:20:51 main.go:51: interrupt
+2023/08/22 14:20:53 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:20:56 server.go:3217: http: panic serving 127.0.0.1:57722: implement me
+goroutine 13 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d98})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc0002001e0?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eee00, 0xc0002001e0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0a0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:30 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000114ca8?, {0x9eee00?, 0xc0002001e0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0a0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eee00?, 0xc0002001e0?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0a0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0002a0020, {0x9ee970, 0xc000108540}, 0xc0000ea500, {0xc000284910?, 0x0?, 0xc00002b08d?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00029a120, {0x9ee970, 0xc000108540}, 0xc0000ea500)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec278?}, {0x9ee970, 0xc000108540}, 0xc0000ea500)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc0000dc630, {0x9eeea8, 0xc000282540})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:21:14 server.go:3217: http: panic serving 127.0.0.1:49230: implement me
+goroutine 51 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0xbf
+panic({0x89c100, 0x9e7d98})
+	/usr/lib/go/src/runtime/panic.go:890 +0x263
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc000200230?)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x27
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0x0?, {0x9eee00, 0xc000200230}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:30 +0x331
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc000114de8?, {0x9eee00?, 0xc000200230?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x55
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0x0?, {0x9eee00?, 0xc000200230?}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b0e0, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0x7c
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0002a0020, {0x9ee970, 0xc000108620}, 0xc000334000, {0xc000284910?, 0x0?, 0xc00002b0cd?})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x1c3
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc00029a120, {0x9ee970, 0xc000108620}, 0xc000334000)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x81c
+net/http.serverHandler.ServeHTTP({0x9ec278?}, {0x9ee970, 0xc000108620}, 0xc000334000)
+	/usr/lib/go/src/net/http/server.go:2936 +0x316
+net/http.(*conn).serve(0xc000332000, {0x9eeea8, 0xc000282540})
+	/usr/lib/go/src/net/http/server.go:1995 +0x612
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0x5ed
+2023/08/22 14:21:23 main.go:51: interrupt
+2023/08/22 14:21:24 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:21:41 main.go:51: interrupt
+2023/08/22 14:21:41 main.go:60: Server - < finished goroutines
+2023/08/22 14:21:42 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:22:13 server.go:3217: http: panic serving 127.0.0.1:58564: implement me
+goroutine 10 [running]:
+net/http.(*conn).serve.func1()
+	/usr/lib/go/src/net/http/server.go:1854 +0x148
+panic({0xb8dc20, 0xc9d808})
+	/usr/lib/go/src/runtime/panic.go:890 +0x262
+avesto-service/pkg/storage/postgres/pgx.(*PostgresTransaction).Close(0xc0000a62a0)
+	/home/hakim/projects/Pet-Project/avesto-service/pkg/storage/postgres/pgx/transaction.go:49 +0x32
+avesto-service/internal/database/clients.(*db).AddServiceInputs(0xc0000a60b0, {0xca4950, 0xc0001f00f0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b240, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/database/clients/service_inputs.go:30 +0x56a
+avesto-service/internal/entity.(*entity).AddServiceInputs(0xc0000a60c0, {0xca4950, 0xc0001f00f0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b240, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/entity/service_inputs.go:9 +0x95
+avesto-service/internal/usecase.(*usecase).AddServiceInputs(0xc0000a60d0, {0xca4950, 0xc0001f00f0}, {0x0, 0x1, 0x1, {0x0, {0x0, 0x0}}, {0xc00002b240, ...}, ...})
+	/home/hakim/projects/Pet-Project/avesto-service/internal/usecase/service_inputs.go:10 +0xa2
+avesto-service/cmd/app/controllers/http.(*server).AddServiceInputs(0xc0000be040, {0xca4490, 0xc000176540}, 0xc00015a500, {0x7, 0x0, 0x0})
+	/home/hakim/projects/Pet-Project/avesto-service/cmd/app/controllers/http/service_inputs.go:34 +0x2a4
+github.com/julienschmidt/httprouter.(*Router).ServeHTTP(0xc0000a21e0, {0xca4490, 0xc000176540}, 0xc00015a500)
+	/home/hakim/go/pkg/mod/github.com/julienschmidt/httprouter@v1.3.0/router.go:387 +0x32f
+net/http.serverHandler.ServeHTTP({0xc0000c8000}, {0xca4490, 0xc000176540}, 0xc00015a500)
+	/usr/lib/go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc00014c5a0, {0xca4950, 0xc0001f00a0})
+	/usr/lib/go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	/usr/lib/go/src/net/http/server.go:3089 +0xa16
+2023/08/22 14:23:18 main.go:51: interrupt
+2023/08/22 14:23:19 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 14:23:52 main.go:51: interrupt
+2023/08/22 15:29:12 config.go:34: ---*--- Starting Logging ---*---
+2023/08/22 15:42:46 main.go:51: interrupt
+2023/08/26 17:54:21 config.go:34: ---*--- Starting Logging ---*---
